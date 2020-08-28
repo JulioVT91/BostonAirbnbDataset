@@ -16,7 +16,11 @@ The code used for this analysis was Python 3. Besides this, review that your env
 - seaborn
 
 ## Project Motivation
-AirBNB is one of the most famous start ups nowadays. I used a dataset available at Kaggle:https://www.kaggle.com/airbnb/boston to understand more about the property market available in Boston. Basically, I used this analysis to answer the following questions:
+AirBNB is one of the most famous start ups nowadays. I used a dataset available at Kaggle to understand more about the property market available in Boston. 
+
+To see the dataset available at Kaggle: https://www.kaggle.com/airbnb/boston
+
+Basically, I used this analysis to answer the following questions:
 
 1. What are the main characteristics of the AirBNB listings in Boston?
 2. Which variables can determine the price of an AirBNB listing?
