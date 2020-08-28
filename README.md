@@ -30,4 +30,4 @@ Basically, I used this analysis to answer the following questions:
 You can find the conclusions of the analysis in the following link.
 
 ## Acknowledgements
-The public datasets analyzed were given by AirBNB. You can find more information about the dataset and the corresponding licensing here.
+The public datasets analyzed were given by AirBNB. You can find more information about the dataset and the corresponding licensing [here](https://www.kaggle.com/airbnb/boston).
